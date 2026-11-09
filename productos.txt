@@ -1,0 +1,12 @@
+1;Oreo;Bocadillos;1.20
+2;Margarita;Bocadillos;1.00
+3;Picara;Bocadillos;1.50
+4;Arroz Con Pollo;Platos a la carta;12.00
+5;Broaster;Platos a la carta;15.00
+6;Causa;Platos a la carta;14.00
+7;Agua;Bebidas;1.00
+8;Gaseosa;Bebidas;2.00
+9;Refresco;Bebidas;1.50
+10;Empanada;Postres;6.00
+11;Pan Con Pollo;Postres;5.00
+12;Torta;Postres;8.00
